@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: raka
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
